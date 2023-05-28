@@ -11,6 +11,7 @@ db = client["booking"]
 questions = db["Questions"]
 users = db["Users"]
 
+
 question_start ={
 'question_bot_1': "Вы желаете: ",
 'answer_bot_1_a': "Забронировать столик",
