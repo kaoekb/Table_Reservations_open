@@ -1,7 +1,8 @@
 # Бот Telegram, по бронированию столиков в кафе
 
 ### [@elskal_bot](https://t.me/elskal_bot "Telegram channel"){:target="_blank"} (тестовая версия)
-[Ссылка](https://t.me/elskal_bot) <!--_blank-->
+
+<a href="https://t.me/elskal_bot" target="_blank">Ссылка</a>
 
 Крутится на Railway и MongoDB.
 
