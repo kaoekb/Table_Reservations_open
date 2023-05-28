@@ -1,4 +1,4 @@
-# Бот Telegram, по бронированию столиков в кафе
+# Бот Telegram, по бронированию столиков в кафе.
 
 ### [@elskal_bot](https://t.me/elskal_bot "Telegram channel") ***(тестовая версия)***
 
